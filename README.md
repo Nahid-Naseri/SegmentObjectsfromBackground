@@ -1,2 +1,2 @@
-# Segment_Objects_from_background
-Segment_Objects_from_background
+# SegmentO bjects from Background (ML2)
+This task tests the ability to extract objects from background using Thresholding techniques.
